@@ -1,0 +1,4 @@
+= Resin
+
+A library to support CAdES (CMS Advanced Electronic Signatures, cf. ETSI TS 101 733 and RFC 5126) signatures in Ruby.
+
